@@ -1,4 +1,4 @@
-# Net24-Labb1
+# Net24-Labb1 - Algoritmer
 Första induviduella labben (inlämningsuppgift) på utbildning .Net Utveckling, IT-Högskolan Göteborg. 
 
 ## Uppgiftsbeskrivning:
